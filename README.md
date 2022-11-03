@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JNaasz
-- 👀 I’m interested in ... Learning as much as possible and getting better at the things I already know
+- 👀 I’m interested in ... Learning as much as possible and getting better at the things I'm already comfortable with
 - 🌱 I’m currently learning ... React
 - 📫 How to reach me ... naasz.jl@gmail.com
 
